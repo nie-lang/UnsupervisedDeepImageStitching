@@ -12,6 +12,9 @@ This dataset is available in https://drive.google.com/drive/folders/1kC7KAULd5mZ
 
 ## Experimental results on robustness
 
+## Meta
+NIE Lang -- nielang@bjtu.edu.cn
+
 
 ## References
 [1] L. Nie, C. Lin, K. Liao, M. Liu, and Y. Zhao, “A view-free image stitching network based on global homography,” Journal of Visual Communication and Image Representation, p. 102950, 2020.  
