@@ -8,7 +8,7 @@ Traditional feature-based image stitching technologies rely heavily on the quali
 ## Dataset for unsupervised deep image stitching
 To train our network, we propose an unsupervised deep image stitching dataset that is obtained from variable moving videos. Of these videos, some are from [5] and the others are captured by ourselves. By extracting the frames from these videos with different interval time, we get the samples with different overlap rates. In particular, we get 10,440 cases for training and 1,106 cases for testing. The following figure illustrates somes cases of this real world dataset which includes variable scenes such as indoor, outdoor, night, dark, snow, zooming, similar texture, etc. Although our dataset contains no groundtruth, we include our testing results in this dataset, which can work as a benchmark dataset for other methods to compare.
 
-
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset1.jpg)
 
 This dataset is available in https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
 
