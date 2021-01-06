@@ -10,6 +10,8 @@ To train our network, we propose an unsupervised deep image stitching dataset th
 
 ![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset1.jpg)
 
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset2.jpg)
+
 This dataset is available in https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
 
 ## Experimental results on robustness
