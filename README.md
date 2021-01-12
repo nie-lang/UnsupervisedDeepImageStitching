@@ -13,6 +13,7 @@ We also propose an unsupervised deep image stitching dataset that is obtained fr
 This dataset is available in https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
 
 ## Experimental results on robustness
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/robust.jpg)
 
 The results can be available in https://drive.google.com/drive/folders/1URFKTiUxaZ8i6pcHIKhxVTf-LkTNnXpK?usp=sharing.
 
