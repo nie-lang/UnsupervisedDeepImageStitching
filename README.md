@@ -7,7 +7,8 @@ We also propose an unsupervised deep image stitching dataset that is obtained fr
 
 ![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset.jpg)
 
-This dataset is available in https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
+We release the testing set and our results here https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
+The training dataset will be public when our paper is accept.
 
 ## Experimental results on robustness
 By resizing the input images to different resolutions, we simulation the change of feature quantity to compare ours with other methods in robustness.
