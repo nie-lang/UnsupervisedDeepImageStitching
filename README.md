@@ -24,7 +24,7 @@ The results can be available in https://drive.google.com/drive/folders/1URFKTiUx
 Note: Since the RANSAC algorithm randomly selects the sample points, and the feature (SIFT) detection is not strictly consistent each time, different tests on the same image may differ. But the overall performance should be close to the results reported in our experiments.
 
 ## Compared with ours
-You can try the testing set of the proposed dataset with your own algorithm. And our results in the testing set are also provided with the testing set. The testing set and our results can be obtained here https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
+You can try the testing set of the proposed dataset with your own algorithm. And our results in the testing set are also provided with the testing set. 
 
 ## Meta
 NIE Lang -- nielang@bjtu.edu.cn
