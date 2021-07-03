@@ -28,7 +28,17 @@ You can try the testing set of the proposed dataset with your own algorithm. And
 
 ## Meta
 NIE Lang -- nielang@bjtu.edu.cn
-
+```
+@ARTICLE{9472883,
+  author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2021.3092828}}
+```
 
 ## References
 [1] L. Nie, C. Lin, K. Liao, M. Liu, and Y. Zhao, “A view-free image stitching network based on global homography,” Journal of Visual Communication and Image Representation, p. 102950, 2020.  
