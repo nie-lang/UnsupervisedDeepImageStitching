@@ -12,7 +12,8 @@ We also propose an unsupervised deep image stitching dataset that is obtained fr
 ![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset2.jpg)
 ![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset3.jpg)
 
-We release the proposed dataset and our testing results here https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing.
+We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu](https://pan.baidu.com/s/1U_RNKjBfrUGxtNld8G8KAQ)(Extraction code: 1234) .
+
 
 ## Experimental results on robustness
 By resizing the input images to different resolutions, we simulation the change of feature quantity to compare ours with other methods in robustness.
