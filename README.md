@@ -35,9 +35,9 @@ NIE Lang -- nielang@bjtu.edu.cn
   journal={IEEE Transactions on Image Processing}, 
   title={Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images}, 
   year={2021},
-  volume={},
+  volume={30},
   number={},
-  pages={1-1},
+  pages={6184-6197},
   doi={10.1109/TIP.2021.3092828}}
 ```
 
