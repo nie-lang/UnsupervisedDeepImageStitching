@@ -22,6 +22,7 @@ Modidy the 'ImageAlignment/Codes/constant.py' to set the 'TRAIN_FOLDER'/'ITERATI
 
 Train on Stitched MS-COCO:
 ```
+cd Codes/
 python train_H.py
 ```
 
