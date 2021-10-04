@@ -12,7 +12,13 @@ We release our testing results with the proposed dataset together. One can downl
 You can try the testing set of the proposed dataset with your own algorithm. And our results in the testing set are also provided with the testing set. 
 
 ## Codes
-We 
+### Requirement
+* python 3.6
+* numpy 1.18.1
+* tensorflow 1.13.1
+* tensorlayer 1.8.0
+
+### How to run it
 
 
 ## Experimental results on robustness
