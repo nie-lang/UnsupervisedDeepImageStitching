@@ -1,10 +1,11 @@
-# Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images ([paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472883))
+# Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images 
 <p align="center">Lang Nie*, Chunyu Lin*, Kang Liao*, Shuaicheng Liu`, Yao Zhao*</p>
 <p align="center">* Institute of Information Science, Beijing Jiaotong University</p>
 <p align="center">` School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
 
 ## Dataset (UDIS-D)
-The details of the dataset can be found in our [paper](https://arxiv.org/pdf/2106.12859.pdf).
+The details of the dataset can be found in our paper.([arxiv](https://arxiv.org/pdf/2106.12859.pdf), [IEEE xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472883))
+
 We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1U_RNKjBfrUGxtNld8G8KAQ)(Extraction code: 1234).
 
 ## Compared with ours
