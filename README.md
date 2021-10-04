@@ -3,7 +3,7 @@
 <p align="center">* Institute of Information Science, Beijing Jiaotong University</p>
 <p align="center">` School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
 
-Our work has been accepted by IEEE Transactions on Image Processing, and the paper will available in IEEE Xplore soon.
+***The codes have been available!***
 
 ## Dataset for unsupervised deep image stitching ([UDIS-D](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing))
 We also propose an unsupervised deep image stitching dataset that is obtained from variable moving videos. Of these videos, some are from [4] and the others are captured by ourselves. By extracting the frames from these videos with different interval time, we get the samples with different overlap rates. Moreover, these videos are not shot by the camera rotating around the optical center, and the shot scenes are far from the same depth plane, which means this dataset contains different degrees of parallax. Besides, this real-world dataset includes variable scenes such as indoor, outdoor, night, dark, snow, zooming, etc. In particular, we get 10,440 cases for training and 1,106 cases for testing. Although our dataset contains no ground-truth, we include our testing results in this dataset, which we hope can work as a benchmark dataset for other researchers to follow and compare.
