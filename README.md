@@ -4,10 +4,7 @@
 <p align="center">` School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
 
 ## Dataset (UDIS-D)
-Training set: 10,440
-
-Testing set: 1,106
-
+The details of the dataset can be found in our [paper](https://arxiv.org/pdf/2106.12859.pdf).
 We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1U_RNKjBfrUGxtNld8G8KAQ)(Extraction code: 1234).
 
 ## Compared with ours
