@@ -19,6 +19,8 @@ You can try the testing set of the proposed dataset with your own algorithm. And
 * tensorlayer 1.8.0
 
 ### How to run it
+* Stage 1 (unsupervised coarse image alignment): please refer to [ImageAlignment/ImageAlignment.md](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/ImageAlignment/ImageAlignment.md).
+* Stage 2 (unsupervised image reconstruction): please refer to [ImageReconstruction/ImageReconstruction.md](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/ImageReconstruction/ImageReconstruction.md).
 
 
 ## Experimental results on robustness
