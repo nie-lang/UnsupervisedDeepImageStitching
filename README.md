@@ -6,6 +6,10 @@
 ## Dataset (UDIS-D)
 The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/pdf/2106.12859.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472883))
 
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset1.jpg)
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset2.jpg)
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset3.jpg)
+
 We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1U_RNKjBfrUGxtNld8G8KAQ)(Extraction code: 1234).
 
 ## Compared with ours
