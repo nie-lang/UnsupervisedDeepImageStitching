@@ -28,7 +28,7 @@ python train_H.py
 ```
 
 ## Testing 
-Our pretrained homography model can be available at Google Drive or [Baidu Cloud]()(Extraction code: 1234).
+Our pretrained homography model can be available at Google Drive or [Baidu Cloud](https://pan.baidu.com/s/1uh6WRp3yWBCD0VPPiCa0eA)(Extraction code: 1234).
 #### Caculate the PSNR/SSIM
 Modidy the 'ImageAlignment/Codes/constant.py' to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'ImageAlignment/Codes/inference.py'.
 Caculate the PSNR/SSIM:
