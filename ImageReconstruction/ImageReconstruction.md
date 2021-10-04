@@ -17,7 +17,7 @@ python train.py
 ```
 
 ## Testing 
-Our pretrained model is available here ([Reconstruction Network]).
+Our pretrained model is available here (Reconstruction Network [Baidu Cloud](https://pan.baidu.com/s/1jYtiwibIL0dDfDalw1NR0w)).
 
 Modidy the 'ImageReconstruction/Codes/constant.py' to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'ImageReconstruction/Codes/inference.py'.
 
