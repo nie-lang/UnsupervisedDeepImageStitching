@@ -13,6 +13,7 @@ Modidy the 'ImageReconstruction/Codes/constant.py' to set the 'TRAIN_FOLDER'/'IT
 
 Train the reconstruction network on UDIS-D:
 ```
+cd ImageReconstruction/Codes/
 python train.py
 ```
 
