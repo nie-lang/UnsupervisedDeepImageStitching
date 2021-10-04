@@ -2,7 +2,7 @@
 The architecture of the homography network is the same as [2]. We only modify the loss function in this work.
 
 ## Dataset preparation
-##### Step 1: Stitched MS-COCO (The synthetic dataset)
+#### Step 1: Stitched MS-COCO (The synthetic dataset)
 Generate the synthetic dataset that proposed in VFISNet[1]. In our experiment, we generate 50,000 for training and 5,000 for testing.
 
 Notice: Since our solution is unsupervised, we only generate the input images. We do not need the corresponding lables (homography label and stitched image label).
@@ -42,6 +42,6 @@ python output_inference.py
 ```
 The generated images and masks are used to train the subsequent reconstruction network.
 
-#### References
+### References
 [1] L. Nie, C. Lin, K. Liao, M. Liu, and Y. Zhao, “A view-free image stitching network based on global homography,” Journal of Visual Communication and Image Representation, p. 102950, 2020.  
 [2] L. Nie, C. Lin, K. Liao, and Y. Zhao, “Learning edge-preserved image stitching from large-baseline deep homographyn,” arXiv preprint arXiv:2012.06194, 2020. 
