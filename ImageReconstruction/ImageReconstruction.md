@@ -13,6 +13,7 @@ python train.py
 Our pretrained model is available here ([Reconstruction Network]).
 
 Modidy the 'ImageReconstruction/Codes/constant.py' to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'ImageReconstruction/Codes/inference.py'.
+
 Generate the stitched image:
 ```
 python inference.py
