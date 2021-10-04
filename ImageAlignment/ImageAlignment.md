@@ -7,6 +7,12 @@ Generate the synthetic dataset that proposed in VFISNet[1]. In our experiment, w
 
 Notice: Since our solution is unsupervised, we only generate the input images. We do not need the corresponding lables (homography label and stitched image label).
 
+Modidy the 'ImageAlignment/synthetic_dataset.py' to set the 'raw_image_path'/'generate_image_path' and create the corresponding folders. Then, run this script:
+```
+cd ImageAlignment/
+python synthetic_dataset.py
+```
+
 #### Step 2: UDIS-D (The proposed real-world dataset)
 Download this dataset. 
 
