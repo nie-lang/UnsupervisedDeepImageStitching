@@ -18,7 +18,7 @@ python train.py
 ```
 
 ## Testing 
-Our pretrained reconstruction model can be available at Google Drive or [Baidu Cloud](https://pan.baidu.com/s/1jYtiwibIL0dDfDalw1NR0w)(Extraction code: 1234).
+Our pretrained reconstruction model can be available at [Google Drive](https://drive.google.com/drive/folders/1ogfVFveLjvbnf_XRKAMjG5WaUzxz_zrb?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1jYtiwibIL0dDfDalw1NR0w)(Extraction code: 1234).
 
 Modidy the 'ImageReconstruction/Codes/constant.py' to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'ImageReconstruction/Codes/inference.py'.
 
