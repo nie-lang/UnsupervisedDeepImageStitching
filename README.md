@@ -3,10 +3,10 @@
 <p align="center">* Institute of Information Science, Beijing Jiaotong University</p>
 <p align="center">` School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
 
+![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/network.jpg)
+
 ## Dataset (UDIS-D)
 The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/pdf/2106.12859.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472883))
-
-![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/figures/dataset1.jpg)
 
 We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/13KZ29e487datgtMgmb9laQ)(Extraction code: 1234).
 
