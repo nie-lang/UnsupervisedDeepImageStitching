@@ -26,3 +26,5 @@ Generate the stitched image:
 ```
 python inference.py
 ```
+#### About the pretrain reconstruction model
+We are sorry that we delete the pretrained reconstruction model whose result is the same as that in the paper by mistake. We retrain the reconstruction model and release it.
