@@ -25,6 +25,9 @@ Due to the memory limitation of our GPU, we implement this unsupervised solution
 * Stage 1 (unsupervised coarse image alignment): please refer to [ImageAlignment/ImageAlignment.md](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/ImageAlignment/ImageAlignment.md).
 * Stage 2 (unsupervised image reconstruction): please refer to [ImageReconstruction/ImageReconstruction.md](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/ImageReconstruction/ImageReconstruction.md).
 
+#### For windows system
+For windows OS users, you have to change '/' to '\\\\' in 'line 71 of ImageAlignment/Codes/utils.py' and 'line 48 of ImageReconstruction/Codes/utils.py'.
+
 
 ## Experimental results on robustness
 By resizing the input images to different resolutions, we simulation the change of feature quantity to compare ours with other methods in robustness. The results can be available in https://drive.google.com/drive/folders/1URFKTiUxaZ8i6pcHIKhxVTf-LkTNnXpK?usp=sharing.
