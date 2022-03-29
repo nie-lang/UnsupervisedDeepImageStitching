@@ -58,7 +58,7 @@ with tf.Session(config=config) as sess:
         print("generating aligned images for training set")
         # dataset
         data_loader = DataLoader(train_folder)
-        length = 100
+        length = 10440
         for i in range(0, length):
             input_clip = np.expand_dims(data_loader.get_data_clips(i, None, None), axis=0)
             size_clip = np.expand_dims(data_loader.get_size_clips(i), axis=0)
