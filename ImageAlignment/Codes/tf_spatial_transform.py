@@ -165,18 +165,13 @@ def transform(image2_tensor, H_tf):
             t_s = tf.slice(T_g, [0, 2, 0], [-1, 1, -1])
             # The problem may be here as a general homo does not preserve the parallelism
             # while an affine transformation preserves it.
-            t_s_flat = tf.reshape(t_s, [-1]) + 1e-7
+            t_s_flat = tf.reshape(t_s, [-1])
 
             # # Avoid zero division
-            # zero = tf.constant(0, dtype=tf.float32)
-            # one = tf.constant(1, dtype=tf.float32)
-            #
-            # # smaller
-            # small = tf.constant(1e-7, dtype=tf.float32)
-            # smallers = 1e-6 * (one - tf.cast(tf.greater_equal(tf.abs(t_s_flat), small), tf.float32))
-            #
-            # t_s_flat = t_s_flat + smallers
-            # condition = tf.reduce_sum(tf.cast(tf.greater(tf.abs(t_s_flat), small), tf.float32))
+            one = tf.constant(1, dtype=tf.float32)
+            small = tf.constant(1e-7, dtype=tf.float32)
+            smallers = 1e-6 * (one - tf.cast(tf.greater_equal(tf.abs(t_s_flat), small), tf.float32))
+            t_s_flat = t_s_flat + smallers
 
             #  batchsize * width * height
             x_s_flat = tf.reshape(x_s, [-1]) / t_s_flat
