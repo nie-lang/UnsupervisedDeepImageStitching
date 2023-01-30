@@ -74,7 +74,7 @@ def transform(image2_tensor, H_tf):
             y1 = y0 + 1
 
 
-            x0 = tf.clip_by_value(x0, zero, max_x)      #将坐标划�?-127之间，超出部分用边界值表示，�?3�?表示
+            x0 = tf.clip_by_value(x0, zero, max_x)      #å°†åæ ‡åˆ’åœ?-127ä¹‹é—´ï¼Œè¶…å‡ºéƒ¨åˆ†ç”¨è¾¹ç•Œå€¼è¡¨ç¤ºï¼Œå¦?3ç”?è¡¨ç¤º
             x1 = tf.clip_by_value(x1, zero, max_x)
             y0 = tf.clip_by_value(y0, zero, max_y)
             y1 = tf.clip_by_value(y1, zero, max_y)
@@ -165,7 +165,7 @@ def transform(image2_tensor, H_tf):
             t_s = tf.slice(T_g, [0, 2, 0], [-1, 1, -1])
             # The problem may be here as a general homo does not preserve the parallelism
             # while an affine transformation preserves it.
-            t_s_flat = tf.reshape(t_s, [-1])
+            t_s_flat = tf.reshape(t_s, [-1]) + 1e-7
 
             # # Avoid zero division
             # zero = tf.constant(0, dtype=tf.float32)
