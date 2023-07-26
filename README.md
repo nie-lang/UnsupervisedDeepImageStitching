@@ -8,7 +8,7 @@
 ## Dataset (UDIS-D)
 The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/pdf/2106.12859.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472883))
 
-We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/13KZ29e487datgtMgmb9laQ)(Extraction code: 1234).
+We release our testing results with the proposed dataset together. One can download it in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/13KZ29e487datgtMgmb9laQ)(Extraction code: 1234).
 
 ## Compared with ours
 You can try the testing set of the proposed dataset with your own algorithm. And our results in the testing set are also provided with the testing set. 
