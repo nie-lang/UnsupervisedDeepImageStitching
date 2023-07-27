@@ -6,7 +6,7 @@
 ![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/network.jpg)
 
 ## 🚩Recommendation
-If you are interested in image stitching, we sincerely recommend you try our latest work -- [UDIS++](https://github.com/nie-lang/UnsupervisedDeepImageStitching)(ICCV2023, with better capability to handle parallax).
+If you are interested in image stitching, we sincerely recommend you try our latest work -- [UDIS++](https://github.com/nie-lang/UDIS2)(ICCV2023, with better capability to handle parallax).
 
 
 ## Dataset (UDIS-D)
