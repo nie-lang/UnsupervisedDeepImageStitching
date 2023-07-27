@@ -1,9 +1,13 @@
-# Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images 
+# Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images (UDIS)
 <p align="center">Lang Nie*, Chunyu Lin*, Kang Liao*, Shuaicheng Liu`, Yao Zhao*</p>
 <p align="center">* Institute of Information Science, Beijing Jiaotong University</p>
 <p align="center">` School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
 
 ![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/network.jpg)
+
+## 🚩Recommendation
+If you are interested in image stitching, we sincerely recommend you try our latest work -- [UDIS++](https://github.com/nie-lang/UnsupervisedDeepImageStitching)(ICCV2023, with better capability to handle parallax).
+
 
 ## Dataset (UDIS-D)
 The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/pdf/2106.12859.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472883))
@@ -13,7 +17,7 @@ We release our testing results with the proposed dataset together. One can downl
 ## Compared with ours
 You can try the testing set of the proposed dataset with your own algorithm. And our results in the testing set are also provided with the testing set. 
 
-## Codes
+## Code
 #### Requirement
 * python 3.6
 * numpy 1.18.1
